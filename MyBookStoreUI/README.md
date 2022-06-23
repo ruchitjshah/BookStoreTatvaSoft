@@ -1,9 +1,5 @@
 # PROJECT Preview
 
-Update Profile Auto Field Populate
-
-![1655403229484](image/README/1655403229484.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) TS.
